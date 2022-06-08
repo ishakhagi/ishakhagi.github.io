@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.fd6f5106.js",
+    "static/js/787.69083637.chunk.js": "/static/js/787.69083637.chunk.js",
+    "static/media/webdesign.jpg": "/static/media/webdesign.e0df116529566f2aa356.jpg",
+    "static/media/design.jpg": "/static/media/design.c2f0e0e03be0f415e837.jpg",
+    "static/media/bg_blue.png": "/static/media/bg_blue.eb5ec95ae3e4751a3d68.png",
+    "static/media/programmer.png": "/static/media/programmer.f3e0a82a9573a2986254.png",
+    "static/media/bg2.png": "/static/media/bg2.524b24f5abf76e57e9e0.png",
+    "static/media/software.jpg": "/static/media/software.13a7db1cc5b882a1840a.jpg",
+    "static/media/consulting.webp": "/static/media/consulting.015a7b8a7fac588ada1e.webp",
+    "static/media/mol.png": "/static/media/mol.b05948c98156acdbb369.png",
+    "static/media/mtu.png": "/static/media/mtu.923110971b9d8b603d86.png",
+    "static/media/placeholder.jpg": "/static/media/placeholder.f1b9434df0098ee450f6.jpg",
+    "static/media/hagi.png": "/static/media/hagi.f935fb88636dc8d8c0c9.png",
+    "static/media/aws.png": "/static/media/aws.549abfb4dcff17835bb4.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.fd6f5106.js.map": "/static/js/main.fd6f5106.js.map",
+    "787.69083637.chunk.js.map": "/static/js/787.69083637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd6f5106.js"
+  ]
+}
